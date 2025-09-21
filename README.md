@@ -1,7 +1,7 @@
 # MegaHQ MMR
 Hi, and welcome to MegaHQ - Mega Man Rice, a Mega Man ricing setup, it is a theme in itself, utilizing a defined color palette, with tints, shades and much more.
 
-![Preview screenshot of desktop goes here](https://github.com/Exzmerald)
+![Preview screenshot of desktop goes here](image_link)
 
 MegaHQ is a futuristic neo-tech theme, with focus on utilizing UI elements similar to those featured in the Mega Man franchise, although its main color palette would consist of blue and red, orange seems to be a more fitting color, alongside tints and variations, even sometimes green is perfect when you need an accent.
 
@@ -24,5 +24,5 @@ If you want to understand what's going on, since this is intended to be a "first
 
 ###### Disclaimer
 <sub>
-Not only is this my first rice, it is also my first ever "serious" design proyect, I am experimenting with a lot of stuff and trying to get used to everything seen on this repository, take it as a log of my learning experience.
+Not only is this my first rice, it is also my first ever "serious" design project, I am experimenting with a lot of stuff and trying to get used to everything seen on this repository, take it as a log of my learning experience.
 </sub>
