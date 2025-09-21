@@ -16,11 +16,15 @@ If you want to understand what's going on, since this is intended to be a "first
 #### Roadmap
 
 - [ ] Color palette definitions.
+- [ ] Software list and recommendations.
 - [ ] Borders and title bars assets.
 - [ ] Widgets configuration.
 - [ ] Icon pack and assets.
+- [ ]  Assets explanation.
 - [ ] Software specifications. (Software used to create the rice and used within the modified system.)
+- [ ] Neutral mode definition and integration.
 - [ ] Light mode palette and integration.
+- [ ] Dark mode palette and integration.
 
 ###### Disclaimer
 <sub>
