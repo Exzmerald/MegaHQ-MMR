@@ -15,10 +15,10 @@ If you want to understand what's going on, since this is intended to be a "first
 
 #### Roadmap
 
-- [ ] Basic concepts, introductions and explails -nations (Starters guide).
+- [x] Basic concepts, introductions and explails -nations (Starters guide).
 - [x] Color palette definitions.
 - [x] Software defintions.
-- [ ] Wiki ordering.
+- [x] Wiki ordering.
 - [ ] Oomoox credits and usage.
 - [ ] Figma design, components and background.
 - [ ] Border assets.
